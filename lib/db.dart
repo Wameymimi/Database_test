@@ -1,4 +1,4 @@
-aimport 'package:path/path.dart';
+import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
 class AppDatabase {
